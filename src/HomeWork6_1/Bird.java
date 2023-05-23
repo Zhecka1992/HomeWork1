@@ -60,7 +60,7 @@ class Swallow extends FlyingBird {
 
     @Override
     public void fly() {
-        System.out.println("Swallow is gracefully flying.");
+        System.out.println("Swallow is flying.");
     }
 }
 
